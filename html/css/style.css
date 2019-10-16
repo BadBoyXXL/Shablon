@@ -1,0 +1,14 @@
+ html {
+    background-color: #4a454b;
+}
+
+li {
+    list-style: none;
+    display: inline;
+    padding: 30px;
+    color: lightgrey;
+}
+
+ul {
+    
+}

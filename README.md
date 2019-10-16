@@ -1,2 +1,1 @@
 # Shablon
-# Shablonn
